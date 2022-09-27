@@ -12,7 +12,7 @@ rl.question("What's your name? Nicknames are also acceptable :) ", (name) => {
     
     rl.question("What do you listen to while doing that? ", (music) => {
      
-      rl.question("Which meal is your favourite (eg: dinner, brunch, etc. ", (meal) => {
+      rl.question("Which meal is your favourite (eg: dinner, brunch, etc.) ", (meal) => {
         
         rl.question("What's your favourite thing to eat for that meal? ", (favFood) => {
           
